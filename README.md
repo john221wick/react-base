@@ -33,19 +33,6 @@ A barebones React application using Vite for blazing-fast development and optimi
 
 **Key Features**
 
-* Ultra-fast development experience with Vite's Hot Module Replacement (HMR).
 * Lean and clean setup for focusing on the core of your React application.
-* Optimized production builds for deployment.
-
-**Customization**
-
-Feel free to expand upon this foundation by adding:
-
-* More React components
-* State management solutions (Redux, Zustand, etc.)
-* Routing libraries (React Router)
-* CSS frameworks or styling solutions.
-
-
 
 
