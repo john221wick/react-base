@@ -8,12 +8,12 @@ A barebones React application using Vite for blazing-fast development and optimi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/john221wick/folder
+   git clone https://github.com/john221wick/react-base
    ```
 
 2. **Install dependencies:**
    ```bash
-   cd minimal-react-vite
+   cd react-base
    npm install 
    ```
 
